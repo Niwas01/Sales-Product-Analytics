@@ -1,1 +1,1 @@
-# Sales-Product-Analytics
+This project performs exploratory data analysis (EDA) on sales data from a walmart e-commerce company. The goal is to uncover key business insights such as best-selling products, monthly sales trends, and customer purchasing behavior using Python and its data analysis libraries.
