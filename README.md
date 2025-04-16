@@ -11,24 +11,29 @@ This project performs exploratory data analysis (EDA) on sales data from a Walma
 
 ⸻
 
-📊 Key Business Insights
+ Key Business Insights
 
-1. 🏆 Best-Selling Products Analysis
+1.  Best-Selling Products Analysis
 	•	Identified high-demand products
 	•	Visualized product sales using bar charts
 
-2. 📈 Monthly Sales Performance
+2.  Monthly Sales Performance
 	•	Uncovered sales trends over months
 	•	Pinpointed peak-performing sales periods
 
-3. ⏰ Optimal Advertising Times
+3.  Optimal Advertising Times
 	•	Analyzed purchase timestamps
 	•	Determined best hours for ad placements based on peak order times
 
-4. 🌍 City-Level Sales Breakdown
+4.  City-Level Sales Breakdown
 	•	Extracted and grouped customer locations from order data
 	•	Ranked cities by total revenue generated
 
-5. 💰 Price Sensitivity & Demand Curve
+5.  Price Sensitivity & Demand Curve
 	•	Compared product prices with quantities sold
 	•	Visualized price impact on sales to understand customer sensitivity
+
+
+
+![image](https://github.com/user-attachments/assets/122de278-39c8-4d18-aed4-1a7993dd266a)
+
